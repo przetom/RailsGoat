@@ -14,6 +14,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+SuperSecret = a004315961908a3ede52147629fe9ddee63af6d5b3a251c3e8f2712d16cf25f1
 import optparse
 import ssl
 try:
