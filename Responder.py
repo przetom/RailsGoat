@@ -1,3 +1,6 @@
+MySuperSecret = 533b248801cda55931d5230aa2c9f06b;
+
+
 #!/usr/bin/env python
 # This file is part of Responder, a network take-over set of tools 
 # created and maintained by Laurent Gaffie.
